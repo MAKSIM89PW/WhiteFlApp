@@ -1,6 +1,6 @@
 # White&FluffyApp
 
-![Gallery1080-2]()
+![Gallery1080-2](https://github.com/MAKSIM89PW/WhiteFlApp/blob/main/Simulator2023-06-13.gif)
 
 ## Installation
 У вас должны быть установлены SPM https://github.com/onevcat/Kingfisher
